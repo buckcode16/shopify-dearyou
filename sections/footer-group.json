@@ -1,0 +1,56 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "brand_information_rqfPKG": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
+        "link_list_9D73fz": {
+          "type": "link_list",
+          "settings": {
+            "heading": "ご利用ガイド",
+            "menu": "footer-menu-products"
+          }
+        },
+        "link_list_PzDGNz": {
+          "type": "link_list",
+          "settings": {
+            "heading": "カテゴリー　",
+            "menu": "footer-menu-collection"
+          }
+        }
+      },
+      "block_order": [
+        "brand_information_rqfPKG",
+        "link_list_9D73fz",
+        "link_list_PzDGNz"
+      ],
+      "custom_css": [
+        "a {text-decoration: none;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 60,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

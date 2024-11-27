@@ -1,0 +1,110 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_RxRegz": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about-3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "page_JXVYaz": {
+      "type": "page",
+      "settings": {
+        "page": "google-map",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Dpj7WJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_43PaCT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pin-round_d845a4e9-87a9-4799-a71a-cf0789403197.svg",
+            "title": "<strong>Address 店舗住所 <\/strong>",
+            "text": "<p>〒150-0001  東京都渋谷区神宮前4-9-1, AK神宮前ビル1F<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dQ7z9C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/phone-simple_3d52f6b4-1c61-4666-928f-023ae359a785.svg",
+            "title": "<strong>Phone 電話 <\/strong>",
+            "text": "<p>+81 70-9330-3949<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_g6J4FQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mail_0ca0b8c0-49ad-4581-b5e3-f82f1acd6fe8.svg",
+            "title": "<strong>Email メール<\/strong>",
+            "text": "<p>info@dearyou.jp<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_43PaCT",
+        "column_dQ7z9C",
+        "column_g6J4FQ"
+      ],
+      "settings": {
+        "title": "連絡先情報",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_bWKfiy": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "お問い合わせフォーム",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_RxRegz",
+    "multicolumn_Dpj7WJ",
+    "page_JXVYaz",
+    "contact_form_bWKfiy"
+  ]
+}

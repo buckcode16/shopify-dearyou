@@ -1,0 +1,482 @@
+{
+  "sections": {
+    "slideshow_bCkWGA": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_rMUbyD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20241113172119.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_UhWTKj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20241113172122.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_Dd6YcL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20241113172046.jpg",
+            "heading": "",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6VjE7j": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20241113172128.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_FYKwQP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20241113172116.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_rMUbyD",
+        "slide_UhWTKj",
+        "slide_Dd6YcL",
+        "slide_6VjE7j",
+        "slide_FYKwQP"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_Qxa8EY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_g9byRd": {
+          "type": "heading",
+          "settings": {
+            "heading": "ー　おすすめの特集　ー",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_g9byRd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_QRBEWN": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "クリスマスギフ🎄🎁",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "手芸",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_pR3AM8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "インテリア",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "インテリア",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_Meqb9r": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "食卓器具",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "食卓器具",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_dXFcgB": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "服飾品",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "服飾品",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_nLmrkD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xx6ALK": {
+          "type": "heading",
+          "settings": {
+            "heading": "ー　商品カテゴリ　ー",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xx6ALK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_Mzkrwr": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_YE7BGE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "作家作品"
+          }
+        },
+        "featured_collection_q6it7d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "インテリア"
+          }
+        },
+        "featured_collection_QepdLq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "食卓器具"
+          }
+        },
+        "featured_collection_mMTaCf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "服飾品"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_YE7BGE",
+        "featured_collection_q6it7d",
+        "featured_collection_QepdLq",
+        "featured_collection_mMTaCf"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_jgRBBH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_P9zFdy": {
+          "type": "heading",
+          "settings": {
+            "heading": "個展情報　Exhibition Information",
+            "heading_size": "h1"
+          }
+        },
+        "text_WGdLeP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>地域に根ざした職人たちの技と情熱を感じることができる展示をぜひお楽しみください。<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_APMtxd": {
+          "type": "button",
+          "settings": {
+            "button_label": "展示を見る",
+            "button_link": "shopify:\/\/pages\/展示会",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_P9zFdy",
+        "text_WGdLeP",
+        "button_APMtxd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_202410301500384.jpg",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 48
+      }
+    },
+    "rich_text_VdwzaG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EVbiz3": {
+          "type": "heading",
+          "settings": {
+            "heading": "ー　店舗情報　ー",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EVbiz3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 12
+      }
+    },
+    "multicolumn_V3PHdW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4KzmtV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pagKYQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/app_e9ebc33d-502c-4646-8bdf-cd9116482753.png",
+            "title": "",
+            "text": "",
+            "link_label": "DEARYOUについて",
+            "link": "https:\/\/dearyou.jp\/"
+          }
+        },
+        "column_HaEwCy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram_1aa3eb83-c5b1-49ad-9ca5-0938026901f1.png",
+            "title": "",
+            "text": "",
+            "link_label": "Instagram",
+            "link": "https:\/\/www.instagram.com\/dearyou_omotesando\/?hl=en"
+          }
+        },
+        "column_GFqgYA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/user.png",
+            "title": "",
+            "text": "",
+            "link_label": "メルマガ配信中",
+            "link": ""
+          }
+        },
+        "column_W4qP8H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/user.png",
+            "title": "",
+            "text": "",
+            "link_label": "SIGN UP FOR OUR NEWSLETTER",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4KzmtV",
+        "column_pagKYQ",
+        "column_HaEwCy",
+        "column_GFqgYA",
+        "column_W4qP8H"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-710e2420-ee75-4d74-85bc-ba9205ab0375",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "slideshow_bCkWGA",
+    "rich_text_Qxa8EY",
+    "featured_collection_QRBEWN",
+    "featured_collection_pR3AM8",
+    "featured_collection_Meqb9r",
+    "featured_collection_dXFcgB",
+    "rich_text_nLmrkD",
+    "collection_list_Mzkrwr",
+    "image_with_text_jgRBBH",
+    "rich_text_VdwzaG",
+    "multicolumn_V3PHdW"
+  ]
+}

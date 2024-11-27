@@ -1,0 +1,227 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_eXnMB8": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zDHcBh": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>展示会一覧<\/h4>"
+          }
+        }
+      },
+      "block_order": [
+        "text_zDHcBh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collage_overlay_hfUXmp": {
+      "type": "collage-overlay",
+      "blocks": {
+        "image_yp89AQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_20231030171046.jpg",
+            "link": "",
+            "header": "山田麻美",
+            "caption": ""
+          }
+        },
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/file_a622b324-eb34-46f7-a282-9ea6705a7f2d.jpg",
+            "link": "",
+            "header": "",
+            "caption": ""
+          }
+        },
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_202410301500384.jpg",
+            "link": "",
+            "header": "片瀬有美子",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yp89AQ",
+        "image_ipAiee",
+        "image_44CzW8"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "multicolumn_overlay_pN4NRD": {
+      "type": "multicolumn-overlay",
+      "blocks": {
+        "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "小林加奈",
+            "overlay_description": ""
+          }
+        },
+        "column_RjGQGp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/461790995_17932416623927868_4234802851753481525_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "千田徹",
+            "overlay_description": ""
+          }
+        },
+        "column_fnNWqV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_421db3c8-7a30-486a-9ea6-692ed8fcf53b.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "岡村 宜治",
+            "overlay_description": ""
+          }
+        },
+        "column_KWKDVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/457456437_17928339482927868_8991353793829163143_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "鈴木隆",
+            "overlay_description": ""
+          }
+        },
+        "column_q9fpeb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/455652238_17926633247927868_5462326391523880487_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "めいポタ　鈴木明美",
+            "overlay_description": ""
+          }
+        },
+        "column_L8bGWq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/453589642_17924763554927868_505785256635393165_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "菊池俊治",
+            "overlay_description": ""
+          }
+        },
+        "column_pEtMeT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/451202943_17922835913927868_8807552284292162609_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "谷内由倫子",
+            "overlay_description": ""
+          }
+        },
+        "column_ze4g8j": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/449720738_17920929974927868_5866676354148089560_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "筒井則行",
+            "overlay_description": ""
+          }
+        },
+        "column_cFXnPy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/448888162_873794024567168_3817859412387767722_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "岡井　翼",
+            "overlay_description": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_L3RGn4",
+        "column_RjGQGp",
+        "column_fnNWqV",
+        "column_KWKDVg",
+        "column_q9fpeb",
+        "column_L8bGWq",
+        "column_pEtMeT",
+        "column_ze4g8j",
+        "column_cFXnPy"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_eXnMB8",
+    "collage_overlay_hfUXmp",
+    "multicolumn_overlay_pN4NRD"
+  ]
+}
