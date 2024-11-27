@@ -17,53 +17,88 @@
     }
   }
 
-/* Updated image and overlay styles */
+
+
+
+/* Container for image and overlay */
 .image-overlay-container {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
 
-  .collage-image {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
+/* Image styling */
+.collage-image,
+.second-image {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; /* Maintain aspect ratio */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: opacity 0.3s ease; /* Smooth transition for both images */
+}
 
-  .overlay-collage {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(255, 255, 255, 0.5);
-    color: black;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-end;
-    text-align: right;
-    opacity: 1;
-    transition: opacity 0.3s ease;
-    padding-right: 4rem
-  }
+/* Initial state for second image */
+.second-image {
+  opacity: 0;
+}
 
-  .image-overlay-container:hover .overlay-collage {
-    opacity: 0;
-  }
+/* Hover state: hide first image, show second image */
+.image-overlay-container:hover .collage-image {
+  opacity: 0;
+  transition: opacity 0s; /* No fade on hide */
+}
 
-  .overlay-title {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-  }
+.image-overlay-container:hover .second-image {
+  opacity: 1; /* Smoothly fade in second image */
+}
 
-  .overlay-description {
-    font-size: 1rem;
-    margin: 0;
-    padding: 0 1rem;
-  }
+/* Unhover state: return first image with transition */
+.image-overlay-container .collage-image {
+  transition: opacity 0.3s ease;
+}
+
+/* Overlay text styling */
+.overlay-collage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  text-align: right;
+  padding-right: 4rem;
+  background: rgba(255, 255, 255, 0.5); /* Optional overlay background */
+  transition: opacity 0.3s ease; /* Smooth transition for overlay */
+}
+
+/* Hide overlay on hover */
+.image-overlay-container:hover .overlay-collage {
+  opacity: 0;
+  visibility: hidden; /* Ensure non-interactivity */
+}
+
+/* Overlay title */
+.overlay-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Overlay description */
+.overlay-description {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0 1rem;
+}
+
+
 
 
 
@@ -103,6 +138,7 @@
                     <a href="{{ block.settings.link }}">
                   {% endif %}
                   <div class="image-overlay-container">
+                    <!-- First (Default) Image -->
                     {{
                       block.settings.image
                       | image_url: width: 3000
@@ -112,17 +148,31 @@
                         sizes: '(min-width: 990px) 33vw, (min-width: 750px) 50vw, 100vw',
                         widths: '550, 720, 990, 1100, 1500, 2200, 3000'
                     }}
+                    <!-- Second (Hover) Image -->
+                    {%- if block.settings.second_image != blank -%}
+                    {{
+                      block.settings.second_image
+                      | image_url: width: 3000
+                      | image_tag:
+                        loading: 'lazy',
+                        class: 'second-image',
+                        sizes: '(min-width: 990px) 33vw, (min-width: 750px) 50vw, 100vw',
+                        widths: '550, 720, 990, 1100, 1500, 2200, 3000'
+                    }}
+                    {%- endif -%}
+                    <!-- Overlay Text -->
                     {% if block.settings.header != blank or block.settings.caption != blank %}
-                      <div class="overlay-collage">
-                        {% if block.settings.header != blank %}
-                          <h3 class="overlay-title">{{ block.settings.header }}</h3>
-                        {% endif %}
-                        {% if block.settings.caption != blank %}
-                          <p class="overlay-description">{{ block.settings.caption }}</p>
-                        {% endif %}
-                      </div>
+                    <div class="overlay-collage">
+                      {% if block.settings.header != blank %}
+                      <h3 class="overlay-title">{{ block.settings.header }}</h3>
+                      {% endif %}
+                      {% if block.settings.caption != blank %}
+                      <p class="overlay-description">{{ block.settings.caption }}</p>
+                      {% endif %}
+                    </div>
                     {% endif %}
                   </div>
+                  
                   {% if block.settings.link != blank %}
                     </a>
                   {% endif %}
@@ -387,6 +437,11 @@
           "label": "t:sections.collage.blocks.image.settings.image.label"
         },
         {
+          "type": "image_picker",
+          "id": "second_image",
+          "label": "Hover Image"
+        },        
+        {
           "type": "url",
           "id": "link",
           "label": "Link"
@@ -462,7 +517,7 @@
   "max_blocks": 3,
   "presets": [
     {
-      "name": "Collage Overlay",
+      "name": "Custom Collage Overlay",
       "blocks": [
         {
           "type": "image"

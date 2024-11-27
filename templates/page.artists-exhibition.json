@@ -14,7 +14,7 @@
         "text_zDHcBh": {
           "type": "text",
           "settings": {
-            "text": "<h4>展示会一覧<\/h4>"
+            "text": "<p>開催中個展　<\/p>"
           }
         }
       },
@@ -31,12 +31,13 @@
       }
     },
     "collage_overlay_hfUXmp": {
-      "type": "collage-overlay",
+      "type": "custom-collage-overlay",
       "blocks": {
         "image_yp89AQ": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Image_20231030171046.jpg",
+            "second_image": "shopify:\/\/shop_images\/467017594_17938333667927868_253280742083357992_n.jpg",
             "link": "",
             "header": "山田麻美",
             "caption": ""
@@ -55,6 +56,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Image_202410301500384.jpg",
+            "second_image": "shopify:\/\/shop_images\/A1_01.jpg",
             "link": "",
             "header": "片瀬有美子",
             "caption": ""
@@ -78,7 +80,7 @@
       }
     },
     "multicolumn_overlay_pN4NRD": {
-      "type": "multicolumn-overlay",
+      "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
           "type": "column",
