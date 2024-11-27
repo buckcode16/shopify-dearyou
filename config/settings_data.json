@@ -1,6 +1,15 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/20230601192203.png",
+    "logo": "shopify://shop_images/20230601192203.png",
     "logo_width": 90,
     "type_header_font": "zen_kaku_gothic_new_n4",
     "heading_scale": 100,
@@ -98,11 +107,11 @@
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "",
-    "brand_description": "<p><a href=\"https:\/\/dearyou.jp\/\" target=\"_blank\" title=\"https:\/\/dearyou.jp\/\">DEARYOUについて<\/a><\/p>",
-    "brand_image": "shopify:\/\/shop_images\/20230601192203.png",
+    "brand_description": "<p><a href=\"https://dearyou.jp/\" target=\"_blank\" title=\"https://dearyou.jp/\">DEARYOUについて</a></p>",
+    "brand_image": "shopify://shop_images/20230601192203.png",
     "brand_image_width": 225,
     "social_facebook_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/dearyou_omotesando\/",
+    "social_instagram_link": "https://www.instagram.com/dearyou_omotesando/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -359,7 +368,7 @@
       "sale_badge_color_scheme": "scheme-4",
       "sold_out_badge_color_scheme": "scheme-3",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
