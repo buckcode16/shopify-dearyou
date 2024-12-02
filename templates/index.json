@@ -15,7 +15,7 @@
         "slide_rMUbyD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_20241113172119.jpg",
+            "image": "shopify://shop_images/Image_20241113172119.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -33,7 +33,7 @@
         "slide_UhWTKj": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_20241113172122.jpg",
+            "image": "shopify://shop_images/Image_20241113172122.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -51,7 +51,7 @@
         "slide_Dd6YcL": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_20241113172046.jpg",
+            "image": "shopify://shop_images/Image_20241113172046.jpg",
             "heading": "",
             "heading_size": "h0",
             "subheading": "",
@@ -69,7 +69,7 @@
         "slide_6VjE7j": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_20241113172128.jpg",
+            "image": "shopify://shop_images/Image_20241113172128.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -87,7 +87,7 @@
         "slide_FYKwQP": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_20241113172116.jpg",
+            "image": "shopify://shop_images/Image_20241113172116.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -340,7 +340,7 @@
         "text_WGdLeP": {
           "type": "text",
           "settings": {
-            "text": "<p>地域に根ざした職人たちの技と情熱を感じることができる展示をぜひお楽しみください。<\/p>",
+            "text": "<p>地域に根ざした職人たちの技と情熱を感じることができる展示をぜひお楽しみください。</p>",
             "text_style": "subtitle"
           }
         },
@@ -348,7 +348,7 @@
           "type": "button",
           "settings": {
             "button_label": "展示を見る",
-            "button_link": "shopify:\/\/pages\/展示会",
+            "button_link": "shopify://pages/展示会",
             "button_style_secondary": true
           }
         }
@@ -359,7 +359,7 @@
         "button_APMtxd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_202410301500384.jpg",
+        "image": "shopify://shop_images/350599446_940848397222554_1246930084862968933_n.jpg",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -412,27 +412,27 @@
         "column_pagKYQ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/app_e9ebc33d-502c-4646-8bdf-cd9116482753.png",
+            "image": "shopify://shop_images/app_e9ebc33d-502c-4646-8bdf-cd9116482753.png",
             "title": "",
             "text": "",
             "link_label": "DEARYOUについて",
-            "link": "https:\/\/dearyou.jp\/"
+            "link": "https://dearyou.jp/"
           }
         },
         "column_HaEwCy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/instagram_1aa3eb83-c5b1-49ad-9ca5-0938026901f1.png",
+            "image": "shopify://shop_images/instagram_1aa3eb83-c5b1-49ad-9ca5-0938026901f1.png",
             "title": "",
             "text": "",
             "link_label": "Instagram",
-            "link": "https:\/\/www.instagram.com\/dearyou_omotesando\/?hl=en"
+            "link": "https://www.instagram.com/dearyou_omotesando/?hl=en"
           }
         },
         "column_GFqgYA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/user.png",
+            "image": "shopify://shop_images/user.png",
             "title": "",
             "text": "",
             "link_label": "メルマガ配信中",
@@ -442,7 +442,7 @@
         "column_W4qP8H": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/user.png",
+            "image": "shopify://shop_images/user.png",
             "title": "",
             "text": "",
             "link_label": "SIGN UP FOR OUR NEWSLETTER",
