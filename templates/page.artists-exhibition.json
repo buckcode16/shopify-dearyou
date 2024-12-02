@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
         "text_zDHcBh": {
           "type": "text",
           "settings": {
-            "text": "<p>開催中個展　<\/p>"
+            "text": "<p>開催中個展　</p>"
           }
         }
       },
@@ -36,8 +45,8 @@
         "image_yp89AQ": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_20231030171046.jpg",
-            "second_image": "shopify:\/\/shop_images\/467017594_17938333667927868_253280742083357992_n.jpg",
+            "image": "shopify://shop_images/Image_20231030171046.jpg",
+            "second_image": "shopify://shop_images/467017594_17938333667927868_253280742083357992_n.jpg",
             "link": "",
             "header": "山田麻美",
             "caption": ""
@@ -46,17 +55,18 @@
         "image_ipAiee": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/file_a622b324-eb34-46f7-a282-9ea6705a7f2d.jpg",
+            "image": "shopify://shop_images/Image_20231030171046.jpg",
+            "second_image": "shopify://shop_images/467017594_17938333667927868_253280742083357992_n.jpg",
             "link": "",
-            "header": "",
+            "header": "山田麻美",
             "caption": ""
           }
         },
         "image_44CzW8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Image_202410301500384.jpg",
-            "second_image": "shopify:\/\/shop_images\/A1_01.jpg",
+            "image": "shopify://shop_images/Image_202410301500384.jpg",
+            "second_image": "shopify://shop_images/A1_01.jpg",
             "link": "",
             "header": "片瀬有美子",
             "caption": ""
@@ -85,7 +95,7 @@
         "column_L3RGn4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled.png",
+            "image": "shopify://shop_images/Untitled.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -97,7 +107,7 @@
         "column_RjGQGp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/461790995_17932416623927868_4234802851753481525_n.jpg",
+            "image": "shopify://shop_images/461790995_17932416623927868_4234802851753481525_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -109,7 +119,7 @@
         "column_fnNWqV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_421db3c8-7a30-486a-9ea6-692ed8fcf53b.png",
+            "image": "shopify://shop_images/Untitled_421db3c8-7a30-486a-9ea6-692ed8fcf53b.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -121,7 +131,7 @@
         "column_KWKDVg": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/457456437_17928339482927868_8991353793829163143_n.jpg",
+            "image": "shopify://shop_images/457456437_17928339482927868_8991353793829163143_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -133,7 +143,7 @@
         "column_q9fpeb": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/455652238_17926633247927868_5462326391523880487_n.jpg",
+            "image": "shopify://shop_images/455652238_17926633247927868_5462326391523880487_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +155,7 @@
         "column_L8bGWq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/453589642_17924763554927868_505785256635393165_n.jpg",
+            "image": "shopify://shop_images/453589642_17924763554927868_505785256635393165_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -157,7 +167,7 @@
         "column_pEtMeT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/451202943_17922835913927868_8807552284292162609_n.jpg",
+            "image": "shopify://shop_images/451202943_17922835913927868_8807552284292162609_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -169,7 +179,7 @@
         "column_ze4g8j": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/449720738_17920929974927868_5866676354148089560_n.jpg",
+            "image": "shopify://shop_images/449720738_17920929974927868_5866676354148089560_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -181,7 +191,7 @@
         "column_cFXnPy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/448888162_873794024567168_3817859412387767722_n.jpg",
+            "image": "shopify://shop_images/448888162_873794024567168_3817859412387767722_n.jpg",
             "title": "",
             "text": "",
             "link_label": "",
