@@ -150,6 +150,7 @@
         "column_mMbCNy": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/christmas-2024.jpg",
             "title": "列",
             "text": "<p>選択した商品、コレクション、ブログ記事に注目を集めるため、テキストと画像を組み合わせます。可用性、スタイル、またはレビュー提供についての詳細を追加します。</p>",
             "link_label": "",
