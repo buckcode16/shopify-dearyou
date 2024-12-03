@@ -51,6 +51,7 @@
         },
         "collapsible_tab_tghj84": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "お届けについて",
             "icon": "none",
@@ -60,6 +61,7 @@
         },
         "collapsible_tab_t99rtq": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "お支払い方法について",
             "icon": "none",
