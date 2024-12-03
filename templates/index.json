@@ -181,8 +181,9 @@
         "product_Ftp3AM",
         "product_t4aypi"
       ],
+      "disabled": true,
       "settings": {
-        "heading": "マルチメディアコラージュ",
+        "heading": "クリスマスギフ",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
