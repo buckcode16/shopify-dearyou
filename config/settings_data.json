@@ -11,6 +11,7 @@
   "current": {
     "logo": "shopify://shop_images/20230601192203.png",
     "logo_width": 90,
+    "favicon": "shopify://shop_images/bag.png",
     "type_header_font": "zen_kaku_gothic_new_n4",
     "heading_scale": 100,
     "type_body_font": "zen_kaku_gothic_new_n5",
