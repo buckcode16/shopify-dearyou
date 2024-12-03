@@ -144,50 +144,6 @@
         "padding_bottom": 52
       }
     },
-    "multicolumn_e4rnkq": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_mMbCNy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/christmas-2024.jpg",
-            "title": "列",
-            "text": "<p>選択した商品、コレクション、ブログ記事に注目を集めるため、テキストと画像を組み合わせます。可用性、スタイル、またはレビュー提供についての詳細を追加します。</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_4bCf7f": {
-          "type": "column",
-          "settings": {
-            "title": "列",
-            "text": "<p>選択した商品、コレクション、ブログ記事に注目を集めるため、テキストと画像を組み合わせます。可用性、スタイル、またはレビュー提供についての詳細を追加します。</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_mMbCNy",
-        "column_4bCf7f"
-      ],
-      "settings": {
-        "title": "クリスマスギフト特集",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "ボタンのラベル",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_QRBEWN": {
       "type": "featured-collection",
       "settings": {
@@ -522,7 +478,6 @@
   "order": [
     "slideshow_bCkWGA",
     "rich_text_Qxa8EY",
-    "multicolumn_e4rnkq",
     "featured_collection_QRBEWN",
     "featured_collection_pR3AM8",
     "featured_collection_Meqb9r",
