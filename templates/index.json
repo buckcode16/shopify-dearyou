@@ -163,8 +163,8 @@
         "product_Ftp3AM": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "kimuraglass-crumple-old",
+            "second_image": true
           }
         },
         "product_t4aypi": {
