@@ -21,15 +21,32 @@
     display: flex;
     flex-wrap: nowrap; /* Prevent wrapping */
     justify-content: space-between; /* Distribute items evenly */
-    gap: 0; /* Remove gap if full-width spacing is needed */
+    gap: 10px; /* Optional spacing between items */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    -webkit-overflow-scrolling: touch;
+    
   }
   .collage__item {
-    flex: 1; /* Allow items to grow and fill available space */
-    margin: 0 5px; /* Optional spacing between items */
-    max-width: calc(100% / {{ section.blocks.size }}); /* Adjust based on the number of blocks */
+    flex: 0 0 auto; /* Prevent items from resizing */
+    width: calc(100% / 4); /* Adjust for desired number of items (e.g., 4 items visible) */
+    max-width: 100%; /* Avoid exceeding the container width */
   }
   .collage__item img, .collage__item .media {
     width: 100%; /* Ensure images or media span the full width of their container */
+  }
+
+  .collage::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for WebKit browsers */
+  }
+
+  @media (max-width: 750px) {
+    .collage {
+      gap: 5px; /* Adjust gap for smaller screens */
+    }
+
+    .collage__item {
+      width: 70%; /* Allow more visible space for each item on mobile */
+    }
   }
 {%- endstyle -%}
 
@@ -421,7 +438,7 @@
   "max_blocks": 4,
   "presets": [
     {
-      "name": "Custom Collage",
+      "name": "Custom",
       "blocks": [
         {
           "type": "image"
