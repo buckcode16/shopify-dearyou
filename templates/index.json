@@ -156,8 +156,8 @@
         "product_pxUdfx": {
           "type": "product",
           "settings": {
-            "product": "momotatouen-ty-mug-handle-white",
-            "second_image": false
+            "product": "kikuchihojudo-mayu-ss-tea-pot",
+            "second_image": true
           }
         },
         "product_Ftp3AM": {
@@ -170,8 +170,8 @@
         "product_t4aypi": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "toyosasaki-edogarasu-yachogama-hai-115ml",
+            "second_image": true
           }
         }
       },
