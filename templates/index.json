@@ -150,13 +150,13 @@
         "collection_Y6bk4F": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "クリスマスギフト"
           }
         },
         "product_pxUdfx": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "momotatouen-ty-mug-handle-white",
             "second_image": false
           }
         },
@@ -181,7 +181,6 @@
         "product_Ftp3AM",
         "product_t4aypi"
       ],
-      "disabled": true,
       "settings": {
         "heading": "クリスマスギフ",
         "heading_size": "h1",
