@@ -251,8 +251,8 @@
           "settings": {
             "heading": "Deliverytime, shipping costs, carrier method, regions",
             "icon": "none",
-            "row_content": "<p><strong>Method</strong></p><p>We use the following air courier companies:</p><p>UPS</p><p>* Customers cannot choose the shipping method as it is selected taking into consideration the destination country and international situation.</p>",
-            "page": ""
+            "row_content": "",
+            "page": "海外について-international-information"
           }
         },
         "collapsible_row_XnxQjQ": {
