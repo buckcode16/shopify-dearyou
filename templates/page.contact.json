@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -10,7 +19,7 @@
     "image_banner_RxRegz": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/about-3.png",
+        "image": "shopify://shop_images/about-3.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -23,25 +32,15 @@
         "show_text_below": true
       }
     },
-    "page_JXVYaz": {
-      "type": "page",
-      "settings": {
-        "page": "google-map",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_Dpj7WJ": {
       "type": "multicolumn",
       "blocks": {
         "column_43PaCT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pin-round_d845a4e9-87a9-4799-a71a-cf0789403197.svg",
-            "title": "<strong>Address 店舗住所 <\/strong>",
-            "text": "<p>〒150-0001  東京都渋谷区神宮前4-9-1, AK神宮前ビル1F<\/p>",
+            "image": "shopify://shop_images/pin-round_d845a4e9-87a9-4799-a71a-cf0789403197.svg",
+            "title": "<strong>Address 店舗住所 </strong>",
+            "text": "<p>〒150-0001  東京都渋谷区神宮前4-9-1, AK神宮前ビル1F</p>",
             "link_label": "",
             "link": ""
           }
@@ -49,9 +48,9 @@
         "column_dQ7z9C": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/phone-simple_3d52f6b4-1c61-4666-928f-023ae359a785.svg",
-            "title": "<strong>Phone 電話 <\/strong>",
-            "text": "<p>+81 70-9330-3949<\/p>",
+            "image": "shopify://shop_images/phone-simple_3d52f6b4-1c61-4666-928f-023ae359a785.svg",
+            "title": "<strong>Phone 電話 </strong>",
+            "text": "<p>+81 70-9330-3949</p>",
             "link_label": "",
             "link": ""
           }
@@ -59,9 +58,9 @@
         "column_g6J4FQ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mail_0ca0b8c0-49ad-4581-b5e3-f82f1acd6fe8.svg",
-            "title": "<strong>Email メール<\/strong>",
-            "text": "<p>info@dearyou.jp<\/p>",
+            "image": "shopify://shop_images/mail_0ca0b8c0-49ad-4581-b5e3-f82f1acd6fe8.svg",
+            "title": "<strong>Email メール</strong>",
+            "text": "<p>info@dearyoustore.jp</p>",
             "link_label": "",
             "link": ""
           }
@@ -85,6 +84,16 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "page_JXVYaz": {
+      "type": "page",
+      "settings": {
+        "page": "google-map",
+        "heading_size": "h1",
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
