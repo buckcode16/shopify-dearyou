@@ -35,20 +35,7 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "complementary_Ft9qyV": {
-          "type": "complementary",
-          "settings": {
-            "block_heading": "相性が良い",
-            "make_collapsible_row": false,
-            "icon": "price_tag",
-            "product_list_limit": 10,
-            "products_per_page": 3,
-            "pagination_style": "counter",
-            "image_ratio": "square",
-            "enable_quick_add": false
+            "swatch_shape": "square"
           }
         },
         "buy_buttons_qbkBqP": {
@@ -98,7 +85,6 @@
         "price",
         "quantity_selector",
         "variant_picker",
-        "complementary_Ft9qyV",
         "buy_buttons_qbkBqP",
         "description",
         "collapsible_tab_tghj84",
