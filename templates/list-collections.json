@@ -78,6 +78,12 @@
           "settings": {
             "collection": "飾るもの"
           }
+        },
+        "featured_collection_gyTj8b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "卓上小物"
+          }
         }
       },
       "block_order": [
@@ -91,7 +97,8 @@
         "featured_collection_FzqW7b",
         "featured_collection_KBtH4w",
         "featured_collection_wLcMzR",
-        "featured_collection_wCcETz"
+        "featured_collection_wCcETz",
+        "featured_collection_gyTj8b"
       ],
       "settings": {
         "title": "",
