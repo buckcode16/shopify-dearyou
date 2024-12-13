@@ -20,6 +20,7 @@
         },
         "featured_collection_ibwtPV": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "アクセサリー"
           }
@@ -28,12 +29,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "手芸"
-          }
-        },
-        "featured_collection_dHWynQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "服飾品"
           }
         },
         "featured_collection_mgLFgA": {
@@ -71,19 +66,32 @@
           "settings": {
             "collection": "趣味雑貨"
           }
+        },
+        "featured_collection_wLcMzR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "スカーフ-靴下"
+          }
+        },
+        "featured_collection_wCcETz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "飾るもの"
+          }
         }
       },
       "block_order": [
         "featured_collection_Xn8KLG",
         "featured_collection_ibwtPV",
         "featured_collection_gCaRXE",
-        "featured_collection_dHWynQ",
         "featured_collection_mgLFgA",
         "featured_collection_UcMaBU",
         "featured_collection_A4CFa8",
         "featured_collection_CxAM4Q",
         "featured_collection_FzqW7b",
-        "featured_collection_KBtH4w"
+        "featured_collection_KBtH4w",
+        "featured_collection_wLcMzR",
+        "featured_collection_wCcETz"
       ],
       "settings": {
         "title": "",
