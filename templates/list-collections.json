@@ -60,6 +60,12 @@
             "collection": "茶道具"
           }
         },
+        "featured_collection_FzqW7b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "酒器"
+          }
+        },
         "featured_collection_KBtH4w": {
           "type": "featured_collection",
           "settings": {
@@ -76,6 +82,7 @@
         "featured_collection_UcMaBU",
         "featured_collection_A4CFa8",
         "featured_collection_CxAM4Q",
+        "featured_collection_FzqW7b",
         "featured_collection_KBtH4w"
       ],
       "settings": {
