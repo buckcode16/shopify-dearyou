@@ -1,7 +1,81 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "collage_DM3fFD": {
+      "type": "collage",
+      "blocks": {
+        "collection_rCdUxD": {
+          "type": "collection",
+          "settings": {
+            "collection": "クリスマスギフト"
+          }
+        }
+      },
+      "block_order": [
+        "collection_rCdUxD"
+      ],
+      "settings": {
+        "heading": "マルチメディアコラージュ",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_PaLmwj": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Xn8KLG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_ibwtPV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_zdBJzm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Xn8KLG",
+        "featured_collection_ibwtPV",
+        "featured_collection_zdBJzm"
+      ],
+      "settings": {
+        "title": "コレクション",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
         "title": "",
         "sort": "alphabetical",
@@ -12,6 +86,8 @@
     }
   },
   "order": [
+    "collage_DM3fFD",
+    "collection_list_PaLmwj",
     "main"
   ]
 }
