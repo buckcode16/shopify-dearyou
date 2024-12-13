@@ -9,59 +9,77 @@
  */
 {
   "sections": {
-    "collage_DM3fFD": {
-      "type": "collage",
-      "blocks": {
-        "collection_rCdUxD": {
-          "type": "collection",
-          "settings": {
-            "collection": "クリスマスギフト"
-          }
-        }
-      },
-      "block_order": [
-        "collection_rCdUxD"
-      ],
-      "settings": {
-        "heading": "マルチメディアコラージュ",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_PaLmwj": {
       "type": "collection-list",
       "blocks": {
         "featured_collection_Xn8KLG": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "かばん-バッグ"
           }
         },
         "featured_collection_ibwtPV": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "アクセサリー"
           }
         },
-        "featured_collection_zdBJzm": {
+        "featured_collection_gCaRXE": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "手芸"
+          }
+        },
+        "featured_collection_dHWynQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "服飾品"
+          }
+        },
+        "featured_collection_mgLFgA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "卓上小物-水筒"
+          }
+        },
+        "featured_collection_UcMaBU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "珈琲道具"
+          }
+        },
+        "featured_collection_A4CFa8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "箸とカトラリー"
+          }
+        },
+        "featured_collection_CxAM4Q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "茶道具"
+          }
+        },
+        "featured_collection_KBtH4w": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "趣味雑貨"
           }
         }
       },
       "block_order": [
         "featured_collection_Xn8KLG",
         "featured_collection_ibwtPV",
-        "featured_collection_zdBJzm"
+        "featured_collection_gCaRXE",
+        "featured_collection_dHWynQ",
+        "featured_collection_mgLFgA",
+        "featured_collection_UcMaBU",
+        "featured_collection_A4CFa8",
+        "featured_collection_CxAM4Q",
+        "featured_collection_KBtH4w"
       ],
       "settings": {
-        "title": "コレクション",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -86,7 +104,6 @@
     }
   },
   "order": [
-    "collage_DM3fFD",
     "collection_list_PaLmwj",
     "main"
   ]
