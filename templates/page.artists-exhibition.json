@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7925.jpg",
+            "second_image": "shopify://shop_images/AQ7A0223.jpg",
+            "link": "",
+            "header": "片瀬有美子",
+            "caption": ""
+          }
+        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "山田麻美",
             "caption": ""
           }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Image_202410301500384.jpg",
-            "second_image": "shopify://shop_images/A1_01.jpg",
-            "link": "",
-            "header": "片瀬有美子",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_44CzW8",
         "image_yp89AQ",
-        "image_ipAiee",
-        "image_44CzW8"
+        "image_ipAiee"
       ],
       "settings": {
         "heading": "",
