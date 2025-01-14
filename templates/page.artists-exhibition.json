@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Image_20250114093010.jpg",
+            "second_image": "shopify://shop_images/Irohara_04.jpg",
+            "link": "https://www.instagram.com/iromasaki/",
+            "header": "色原 昌希",
+            "caption": ""
+          }
+        },
         "image_44CzW8": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "うつわ「晴山」",
             "caption": ""
           }
-        },
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Image_20231030171046.jpg",
-            "second_image": "shopify://shop_images/467017594_17938333667927868_253280742083357992_n.jpg",
-            "link": "",
-            "header": "山田麻美",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_ipAiee",
         "image_44CzW8",
-        "image_yp89AQ",
-        "image_ipAiee"
+        "image_yp89AQ"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Image_20231030171046_4a8ed5ce-86b1-4908-8a89-872a522d851f.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "山田麻美",
+            "overlay_description": ""
+          }
+        },
+        "column_xJxn9A": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Untitled.png",
@@ -203,6 +215,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_xJxn9A",
         "column_RjGQGp",
         "column_fnNWqV",
         "column_KWKDVg",
