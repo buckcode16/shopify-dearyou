@@ -71,6 +71,7 @@
         },
         "collapsible_tab_N7A8Wd": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "🎁クリスマスギフト無料ラッピングキャンペーン特典",
             "icon": "none",
