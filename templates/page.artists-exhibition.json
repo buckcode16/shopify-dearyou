@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_yp89AQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Image_20250203092132.png",
+            "second_image": "shopify://shop_images/Image_20250203092136.png",
+            "link": "https://www.instagram.com/haruyama_utsuwa/",
+            "header": "岡井　翼",
+            "caption": ""
+          }
+        },
         "image_ipAiee": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "CHINATSU",
             "caption": ""
           }
-        },
-        "image_yp89AQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/403770801_768919851709964_4749570745715100053_n.jpg",
-            "second_image": "shopify://shop_images/467017594_17938333667927868_253280742083357992_n_b61578e8-6119-4591-90d8-8323bdc84e04.jpg",
-            "link": "https://www.instagram.com/haruyama_utsuwa/",
-            "header": "うつわ「晴山」",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_yp89AQ",
         "image_ipAiee",
-        "image_44CzW8",
-        "image_yp89AQ"
+        "image_44CzW8"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/403770801_768919851709964_4749570745715100053_n_18314d35-3755-4fd4-ade5-eceec5a0dc30.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "うつわ「晴山」",
+            "overlay_description": ""
+          }
+        },
+        "column_iQTf9a": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Image_20231030171046_4a8ed5ce-86b1-4908-8a89-872a522d851f.jpg",
@@ -215,6 +227,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_iQTf9a",
         "column_xJxn9A",
         "column_RjGQGp",
         "column_fnNWqV",
