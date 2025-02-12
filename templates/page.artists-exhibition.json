@@ -95,6 +95,18 @@
         "column_L3RGn4": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/AQ7A0063.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "CHINATSU",
+            "overlay_description": ""
+          }
+        },
+        "column_YPLXaY": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/403770801_768919851709964_4749570745715100053_n_18314d35-3755-4fd4-ade5-eceec5a0dc30.jpg",
             "title": "",
             "text": "",
@@ -227,6 +239,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_YPLXaY",
         "column_iQTf9a",
         "column_xJxn9A",
         "column_RjGQGp",
