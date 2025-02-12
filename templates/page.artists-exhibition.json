@@ -56,6 +56,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/A4___1.jpg",
+            "second_image": "shopify://shop_images/A4___1.jpg",
             "link": "https://www.instagram.com/tetsuya_hirota_/",
             "header": "廣田 哲哉",
             "caption": ""
