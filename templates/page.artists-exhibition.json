@@ -52,6 +52,15 @@
             "caption": ""
           }
         },
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/A4___1.jpg",
+            "link": "https://www.instagram.com/tetsuya_hirota_/",
+            "header": "廣田 哲哉",
+            "caption": ""
+          }
+        },
         "image_ipAiee": {
           "type": "image",
           "settings": {
@@ -61,22 +70,12 @@
             "header": "色原 昌希",
             "caption": ""
           }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_7925.jpg",
-            "second_image": "shopify://shop_images/AQ7A0223.jpg",
-            "link": "https://www.instagram.com/chinatsu_y_/",
-            "header": "CHINATSU",
-            "caption": ""
-          }
         }
       },
       "block_order": [
         "image_yp89AQ",
-        "image_ipAiee",
-        "image_44CzW8"
+        "image_44CzW8",
+        "image_ipAiee"
       ],
       "settings": {
         "heading": "",
