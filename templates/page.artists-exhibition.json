@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20250228151048.jpg",
+            "second_image": "shopify://shop_images/A1_03.jpg",
+            "link": "https://www.instagram.com/tetsuya_hirota_/",
+            "header": "廣田 哲哉",
+            "caption": ""
+          }
+        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
@@ -49,16 +59,6 @@
             "second_image": "shopify://shop_images/Image_20250203092136.png",
             "link": "https://www.instagram.com/okazban2/",
             "header": "岡井　翼",
-            "caption": ""
-          }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/A4___1.jpg",
-            "second_image": "shopify://shop_images/A4___1.jpg",
-            "link": "https://www.instagram.com/tetsuya_hirota_/",
-            "header": "廣田 哲哉",
             "caption": ""
           }
         },
@@ -74,8 +74,8 @@
         }
       },
       "block_order": [
-        "image_yp89AQ",
         "image_44CzW8",
+        "image_yp89AQ",
         "image_ipAiee"
       ],
       "settings": {
