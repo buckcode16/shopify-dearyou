@@ -194,6 +194,55 @@
         "padding_bottom": 36
       }
     },
+    "custom_collage_p7wcTN": {
+      "type": "custom-collage",
+      "blocks": {
+        "collection_NBNp9t": {
+          "type": "collection",
+          "settings": {
+            "collection": "桜彩コレクション"
+          }
+        },
+        "product_AcCwVf": {
+          "type": "product",
+          "settings": {
+            "product": "tsuboe-sakura-no-hanabira-oroshigane",
+            "second_image": false
+          }
+        },
+        "product_AizfzH": {
+          "type": "product",
+          "settings": {
+            "product": "nousaku-hashioki-sakura-5-set",
+            "second_image": false
+          }
+        },
+        "product_zrpBbW": {
+          "type": "product",
+          "settings": {
+            "product": "sinemon-sakuramon-tenmokugata-guinomi",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_NBNp9t",
+        "product_AcCwVf",
+        "product_AizfzH",
+        "product_zrpBbW"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "クリスマスギフト特集",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_pR3AM8": {
       "type": "featured-collection",
       "settings": {
@@ -501,6 +550,7 @@
     "slideshow_bCkWGA",
     "rich_text_Qxa8EY",
     "custom_collage_BWNUKw",
+    "custom_collage_p7wcTN",
     "featured_collection_pR3AM8",
     "featured_collection_Meqb9r",
     "featured_collection_dXFcgB",
