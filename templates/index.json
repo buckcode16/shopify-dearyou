@@ -210,17 +210,17 @@
             "second_image": false
           }
         },
-        "product_AizfzH": {
-          "type": "product",
-          "settings": {
-            "product": "nousaku-hashioki-sakura-5-set",
-            "second_image": false
-          }
-        },
         "product_zrpBbW": {
           "type": "product",
           "settings": {
             "product": "three-snow-madoromu-shuki",
+            "second_image": false
+          }
+        },
+        "product_AizfzH": {
+          "type": "product",
+          "settings": {
+            "product": "nousaku-hashioki-sakura-5-set",
             "second_image": false
           }
         }
@@ -228,8 +228,8 @@
       "block_order": [
         "collection_NBNp9t",
         "product_AcCwVf",
-        "product_AizfzH",
-        "product_zrpBbW"
+        "product_zrpBbW",
+        "product_AizfzH"
       ],
       "settings": {
         "heading": "桜彩特集",
