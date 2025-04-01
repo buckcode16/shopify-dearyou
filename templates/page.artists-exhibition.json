@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AQ7A1585.jpg",
+            "second_image": "shopify://shop_images/AQ7A1773.jpg",
+            "link": "https://www.instagram.com/iromasaki/",
+            "header": "色原 昌希",
+            "caption": ""
+          }
+        },
         "image_44CzW8": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "岡井　翼",
             "caption": ""
           }
-        },
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Irohara_02.jpg",
-            "second_image": "shopify://shop_images/Irohara_04.jpg",
-            "link": "https://www.instagram.com/iromasaki/",
-            "header": "色原 昌希",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_ipAiee",
         "image_44CzW8",
-        "image_yp89AQ",
-        "image_ipAiee"
+        "image_yp89AQ"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/file_7f726025-616f-4202-ada8-c04942656ca8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "色原 昌希",
+            "overlay_description": ""
+          }
+        },
+        "column_ttLTb9": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/IMG_7925.jpg",
@@ -239,6 +251,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_ttLTb9",
         "column_YPLXaY",
         "column_iQTf9a",
         "column_xJxn9A",
