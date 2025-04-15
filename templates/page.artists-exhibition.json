@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_yp89AQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shopify_A1_mori_glass_1_fcaf6a64-3554-4bbc-b2f6-111c384c28e7.png",
+            "second_image": "shopify://shop_images/AQ7A2412.png",
+            "link": "https://www.instagram.com/moriglass.st/",
+            "header": "mori glass",
+            "caption": ""
+          }
+        },
         "image_ipAiee": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "廣田 哲哉",
             "caption": ""
           }
-        },
-        "image_yp89AQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Image_20250203092132.png",
-            "second_image": "shopify://shop_images/Image_20250203092136.png",
-            "link": "https://www.instagram.com/okazban2/",
-            "header": "岡井　翼",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_yp89AQ",
         "image_ipAiee",
-        "image_44CzW8",
-        "image_yp89AQ"
+        "image_44CzW8"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AQ7A0772.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "岡井　翼",
+            "overlay_description": ""
+          }
+        },
+        "column_V7mcFW": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/file_7f726025-616f-4202-ada8-c04942656ca8.jpg",
@@ -251,6 +263,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_V7mcFW",
         "column_ttLTb9",
         "column_YPLXaY",
         "column_iQTf9a",
