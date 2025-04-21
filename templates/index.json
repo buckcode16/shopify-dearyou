@@ -551,6 +551,7 @@
         },
         "column_GFqgYA": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/user.png",
             "title": "",
@@ -561,6 +562,7 @@
         },
         "column_W4qP8H": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/user.png",
             "title": "",
