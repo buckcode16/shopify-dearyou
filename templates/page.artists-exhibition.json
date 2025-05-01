@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1529_0.jpg",
+            "second_image": "shopify://shop_images/1530_0.jpg",
+            "link": "https://www.instagram.com/atagohome/",
+            "header": "田中　陽三",
+            "caption": ""
+          }
+        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "小林克久",
             "caption": ""
           }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/20250228151048.jpg",
-            "second_image": "shopify://shop_images/A1_03.jpg",
-            "link": "https://www.instagram.com/tetsuya_hirota_/",
-            "header": "廣田 哲哉",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_44CzW8",
         "image_yp89AQ",
-        "image_ipAiee",
-        "image_44CzW8"
+        "image_ipAiee"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20250228151055.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "廣田 哲哉",
+            "overlay_description": ""
+          }
+        },
+        "column_thTFzd": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/AQ7A0772.jpg",
@@ -263,6 +275,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_thTFzd",
         "column_V7mcFW",
         "column_ttLTb9",
         "column_YPLXaY",
