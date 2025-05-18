@@ -42,6 +42,26 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1700_0_42a13122-8911-4e32-8506-44c8307da1e0.jpg",
+            "second_image": "shopify://shop_images/AQ7A3278.jpg",
+            "link": "https://www.instagram.com/studio_karakusa/",
+            "header": "飯野夏実（Craft Studio Karakusa）",
+            "caption": ""
+          }
+        },
+        "image_yp89AQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1699_0.jpg",
+            "second_image": "shopify://shop_images/AQ7A3380.jpg",
+            "link": "https://www.instagram.com/hitsujinoniwa/",
+            "header": "hitsujiの庭",
+            "caption": ""
+          }
+        },
         "image_44CzW8": {
           "type": "image",
           "settings": {
@@ -51,32 +71,12 @@
             "header": "田中　陽三",
             "caption": ""
           }
-        },
-        "image_yp89AQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/shopify_A1_mori_glass_1_fcaf6a64-3554-4bbc-b2f6-111c384c28e7.png",
-            "second_image": "shopify://shop_images/AQ7A2412.png",
-            "link": "https://www.instagram.com/moriglass.st/",
-            "header": "mori glass",
-            "caption": ""
-          }
-        },
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/AQ7A1585.jpg",
-            "second_image": "shopify://shop_images/AQ7A1773.jpg",
-            "link": "https://www.instagram.com/koba_katsu/",
-            "header": "小林克久",
-            "caption": ""
-          }
         }
       },
       "block_order": [
-        "image_44CzW8",
+        "image_ipAiee",
         "image_yp89AQ",
-        "image_ipAiee"
+        "image_44CzW8"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,30 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/shopify_A1_mori_glass_1_fcaf6a64-3554-4bbc-b2f6-111c384c28e7.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "mori glass",
+            "overlay_description": ""
+          }
+        },
+        "column_JawH9E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/487834860_17954272922927868_6921123374576331588_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "小林克久",
+            "overlay_description": ""
+          }
+        },
+        "column_q3DkUF": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/20250228151055.jpg",
@@ -275,6 +299,8 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_JawH9E",
+        "column_q3DkUF",
         "column_thTFzd",
         "column_V7mcFW",
         "column_ttLTb9",
