@@ -42,23 +42,12 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1700_0_42a13122-8911-4e32-8506-44c8307da1e0.jpg",
-            "second_image": "shopify://shop_images/AQ7A3278.jpg",
-            "link": "https://www.instagram.com/studio_karakusa/",
-            "header": "飯野夏実（Craft Studio Karakusa）",
-            "caption": ""
-          }
-        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1699_0.jpg",
-            "second_image": "shopify://shop_images/AQ7A3380.jpg",
-            "link": "https://www.instagram.com/hitsujinoniwa/",
-            "header": "hitsujiの庭",
+            "image": "shopify://shop_images/1914_0.jpg",
+            "link": "https://www.instagram.com/kijimayutaro/",
+            "header": "貴島　雄太郎",
             "caption": ""
           }
         },
@@ -71,12 +60,22 @@
             "header": "田中　陽三",
             "caption": ""
           }
+        },
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1700_0_42a13122-8911-4e32-8506-44c8307da1e0.jpg",
+            "second_image": "shopify://shop_images/AQ7A3278.jpg",
+            "link": "https://www.instagram.com/studio_karakusa/",
+            "header": "飯野夏実（Craft Studio Karakusa）",
+            "caption": ""
+          }
         }
       },
       "block_order": [
-        "image_ipAiee",
         "image_yp89AQ",
-        "image_44CzW8"
+        "image_44CzW8",
+        "image_ipAiee"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +92,30 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1699_0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "hitsujiの庭",
+            "overlay_description": ""
+          }
+        },
+        "column_RMYXGa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1529_0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "田中　陽三",
+            "overlay_description": ""
+          }
+        },
+        "column_awPDTV": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/shopify_A1_mori_glass_1_fcaf6a64-3554-4bbc-b2f6-111c384c28e7.png",
@@ -299,6 +322,8 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_RMYXGa",
+        "column_awPDTV",
         "column_JawH9E",
         "column_q3DkUF",
         "column_thTFzd",
