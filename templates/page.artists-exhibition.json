@@ -46,6 +46,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1914_0.jpg",
+            "second_image": "shopify://shop_images/1914_0.jpg",
             "link": "https://www.instagram.com/kijimayutaro/",
             "header": "貴島　雄太郎",
             "caption": ""
@@ -55,6 +56,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1915_0.jpg",
+            "second_image": "shopify://shop_images/1915_0.jpg",
             "link": "https://www.instagram.com/chisato.asai/",
             "header": "浅井　千里",
             "caption": ""
