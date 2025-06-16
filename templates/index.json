@@ -468,7 +468,7 @@
         "button_APMtxd": {
           "type": "button",
           "settings": {
-            "button_label": "展示を見る",
+            "button_label": "すべて作家を見る",
             "button_link": "shopify://pages/展示会",
             "button_style_secondary": true
           }
