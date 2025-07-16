@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2553.jpg",
+            "second_image": "shopify://shop_images/2553.jpg",
+            "link": "https://www.instagram.com/yumitsujihara/",
+            "header": "辻原夕見 Yumi Tsujihara",
+            "caption": ""
+          }
+        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "浅井　千里",
             "caption": ""
           }
-        },
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1700_0_42a13122-8911-4e32-8506-44c8307da1e0.jpg",
-            "second_image": "shopify://shop_images/AQ7A3278.jpg",
-            "link": "https://www.instagram.com/studio_karakusa/",
-            "header": "飯野夏実（Craft Studio Karakusa）",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_ipAiee",
         "image_yp89AQ",
-        "image_44CzW8",
-        "image_ipAiee"
+        "image_44CzW8"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1700_0_42a13122-8911-4e32-8506-44c8307da1e0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "飯野夏実（Craft Studio Karakusa）",
+            "overlay_description": ""
+          }
+        },
+        "column_pqepnJ": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/1699_0.jpg",
@@ -323,6 +335,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_pqepnJ",
         "column_RMYXGa",
         "column_awPDTV",
         "column_JawH9E",
