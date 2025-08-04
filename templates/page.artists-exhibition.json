@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2979.jpg",
+            "second_image": "shopify://shop_images/AQ7A4370.jpg",
+            "link": "https://www.instagram.com/kk_crmc/",
+            "header": "小林　加奈",
+            "caption": ""
+          }
+        },
         "image_ipAiee": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "貴島　雄太郎",
             "caption": ""
           }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1915_0.jpg",
-            "second_image": "shopify://shop_images/1915_0.jpg",
-            "link": "https://www.instagram.com/chisato.asai/",
-            "header": "浅井　千里",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_44CzW8",
         "image_ipAiee",
-        "image_yp89AQ",
-        "image_44CzW8"
+        "image_yp89AQ"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_L3RGn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1915_0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "浅井　千里",
+            "overlay_description": ""
+          }
+        },
+        "column_8RBiQR": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/1700_0_42a13122-8911-4e32-8506-44c8307da1e0.jpg",
@@ -335,6 +347,7 @@
       },
       "block_order": [
         "column_L3RGn4",
+        "column_8RBiQR",
         "column_pqepnJ",
         "column_RMYXGa",
         "column_awPDTV",
