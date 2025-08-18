@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_yp89AQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3133.jpg",
+            "second_image": "shopify://shop_images/3133.jpg",
+            "link": "https://www.instagram.com/may5suzu/",
+            "header": "鈴木 明美",
+            "caption": ""
+          }
+        },
         "image_44CzW8": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "辻原夕見 Yumi Tsujihara",
             "caption": ""
           }
-        },
-        "image_yp89AQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1914_0.jpg",
-            "second_image": "shopify://shop_images/1914_0.jpg",
-            "link": "https://www.instagram.com/kijimayutaro/",
-            "header": "貴島　雄太郎",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_yp89AQ",
         "image_44CzW8",
-        "image_ipAiee",
-        "image_yp89AQ"
+        "image_ipAiee"
       ],
       "settings": {
         "heading": "",
@@ -92,6 +92,18 @@
     "multicolumn_overlay_pN4NRD": {
       "type": "custom-multicolumn-overlay",
       "blocks": {
+        "column_KtzCMY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1914_0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "貴島　雄太郎",
+            "overlay_description": ""
+          }
+        },
         "column_L3RGn4": {
           "type": "column",
           "settings": {
@@ -346,6 +358,7 @@
         }
       },
       "block_order": [
+        "column_KtzCMY",
         "column_L3RGn4",
         "column_8RBiQR",
         "column_pqepnJ",
