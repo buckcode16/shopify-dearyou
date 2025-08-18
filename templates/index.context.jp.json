@@ -12,5 +12,12 @@
   "context": {
     "market": "jp"
   },
-  "sections": {}
+  "sections": {
+    "image_with_text_jgRBBH": {
+      "settings": {
+        "image": "shopify://shop_images/3133.jpg"
+      },
+      "blocks": {}
+    }
+  }
 }
