@@ -158,11 +158,11 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#ffffff",
+          "background": "rgba(0,0,0,0)",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
-          "button_label": "#ffffff",
+          "button_label": "rgba(0,0,0,0)",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }

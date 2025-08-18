@@ -15,7 +15,12 @@
   "sections": {
     "image_with_text_jgRBBH": {
       "settings": {
-        "image": "shopify://shop_images/3133.jpg"
+        "image": "shopify://shop_images/3133.jpg",
+        "desktop_content_alignment": "center",
+        "desktop_content_position": "middle",
+        "desktop_image_width": "large",
+        "color_scheme": "scheme-1",
+        "content_layout": "no-overlap"
       },
       "blocks": {}
     }
