@@ -508,13 +508,13 @@
         "button_APMtxd"
       ],
       "settings": {
-        "image": "shopify://shop_images/2979.jpg",
+        "image": "shopify://shop_images/3133.jpg",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "scheme-710e2420-ee75-4d74-85bc-ba9205ab0375",
         "image_behavior": "none",
