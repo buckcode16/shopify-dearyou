@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3308.jpg",
+            "second_image": "shopify://shop_images/3306_35d799e0-c15a-4d94-9a13-efd82bdeb3b7.jpg",
+            "link": "https://www.instagram.com/yukakikumotodesigns",
+            "header": "菊本 有花",
+            "caption": ""
+          }
+        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "小林　加奈",
             "caption": ""
           }
-        },
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2553.jpg",
-            "second_image": "shopify://shop_images/2553.jpg",
-            "link": "https://www.instagram.com/yumitsujihara/",
-            "header": "辻原夕見 Yumi Tsujihara",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_ipAiee",
         "image_yp89AQ",
-        "image_44CzW8",
-        "image_ipAiee"
+        "image_44CzW8"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_KtzCMY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2553.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "辻原 夕見",
+            "overlay_description": ""
+          }
+        },
+        "column_eekV7n": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/1914_0.jpg",
@@ -359,6 +371,7 @@
       },
       "block_order": [
         "column_KtzCMY",
+        "column_eekV7n",
         "column_L3RGn4",
         "column_8RBiQR",
         "column_pqepnJ",
