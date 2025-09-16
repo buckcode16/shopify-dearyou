@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4598.jpg",
+            "second_image": "shopify://shop_images/4598.jpg",
+            "link": "https://www.instagram.com/p/DOpPx06Elzq/?utm_source=ig_web_copy_link",
+            "header": "小林利華 | 後藤洋平",
+            "caption": ""
+          }
+        },
         "image_ipAiee": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "鈴木 明美",
             "caption": ""
           }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2979.jpg",
-            "second_image": "shopify://shop_images/AQ7A4370.jpg",
-            "link": "https://www.instagram.com/kk_crmc/",
-            "header": "小林　加奈",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_44CzW8",
         "image_ipAiee",
-        "image_yp89AQ",
-        "image_44CzW8"
+        "image_yp89AQ"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_KtzCMY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2979.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "小林　加奈",
+            "overlay_description": ""
+          }
+        },
+        "column_eQtaFY": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/2553.jpg",
@@ -371,6 +383,7 @@
       },
       "block_order": [
         "column_KtzCMY",
+        "column_eQtaFY",
         "column_eekV7n",
         "column_L3RGn4",
         "column_8RBiQR",
