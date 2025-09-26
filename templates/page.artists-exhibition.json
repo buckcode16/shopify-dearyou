@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_yp89AQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5582.jpg",
+            "second_image": "shopify://shop_images/5582.jpg",
+            "link": "https://www.koransha.co.jp/",
+            "header": "POP UP : 香蘭社",
+            "caption": ""
+          }
+        },
         "image_44CzW8": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "菊本 有花",
             "caption": ""
           }
-        },
-        "image_yp89AQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/3133.jpg",
-            "second_image": "shopify://shop_images/3133.jpg",
-            "link": "https://www.instagram.com/may5suzu/",
-            "header": "鈴木 明美",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_yp89AQ",
         "image_44CzW8",
-        "image_ipAiee",
-        "image_yp89AQ"
+        "image_ipAiee"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_KtzCMY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3133.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "鈴木 明美",
+            "overlay_description": ""
+          }
+        },
+        "column_amdaJM": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/2979.jpg",
@@ -383,6 +395,7 @@
       },
       "block_order": [
         "column_KtzCMY",
+        "column_amdaJM",
         "column_eQtaFY",
         "column_eekV7n",
         "column_L3RGn4",
