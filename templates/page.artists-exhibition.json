@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_ipAiee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5782_a4a3a1bb-6945-47ff-a047-cdfb64a4a7df.jpg",
+            "second_image": "shopify://shop_images/AQ7A5562.jpg",
+            "link": "https://www.instagram.com/t_endoh/",
+            "header": "远藤 岳",
+            "caption": ""
+          }
+        },
         "image_yp89AQ": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "小林利華 | 後藤洋平",
             "caption": ""
           }
-        },
-        "image_ipAiee": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/3308.jpg",
-            "second_image": "shopify://shop_images/3306_35d799e0-c15a-4d94-9a13-efd82bdeb3b7.jpg",
-            "link": "https://www.instagram.com/yukakikumotodesigns",
-            "header": "菊本 有花",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_ipAiee",
         "image_yp89AQ",
-        "image_44CzW8",
-        "image_ipAiee"
+        "image_44CzW8"
       ],
       "settings": {
         "heading": "",
@@ -93,6 +93,18 @@
       "type": "custom-multicolumn-overlay",
       "blocks": {
         "column_KtzCMY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3308.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "菊本 有花",
+            "overlay_description": ""
+          }
+        },
+        "column_GdUdMY": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/3133.jpg",
@@ -395,6 +407,7 @@
       },
       "block_order": [
         "column_KtzCMY",
+        "column_GdUdMY",
         "column_amdaJM",
         "column_eQtaFY",
         "column_eekV7n",
