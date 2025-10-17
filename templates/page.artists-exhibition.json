@@ -42,6 +42,16 @@
     "collage_overlay_hfUXmp": {
       "type": "custom-collage-overlay",
       "blocks": {
+        "image_44CzW8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mmexport1760675505745.png",
+            "second_image": "shopify://shop_images/mmexport1760675505745.png",
+            "link": "https://www.instagram.com/p/DP2T11-EvYf/?img_index=1",
+            "header": "岡 洋美・片瀬有美子",
+            "caption": ""
+          }
+        },
         "image_ipAiee": {
           "type": "image",
           "settings": {
@@ -61,22 +71,12 @@
             "header": "POP UP： 香蘭社",
             "caption": ""
           }
-        },
-        "image_44CzW8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/4598.jpg",
-            "second_image": "shopify://shop_images/4598.jpg",
-            "link": "https://www.instagram.com/p/DOpPx06Elzq/?utm_source=ig_web_copy_link",
-            "header": "小林利華 | 後藤洋平",
-            "caption": ""
-          }
         }
       },
       "block_order": [
+        "image_44CzW8",
         "image_ipAiee",
-        "image_yp89AQ",
-        "image_44CzW8"
+        "image_yp89AQ"
       ],
       "settings": {
         "heading": "",
