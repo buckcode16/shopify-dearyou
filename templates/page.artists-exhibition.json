@@ -95,6 +95,18 @@
         "column_KtzCMY": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/4598.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "overlay_title": "小林利華 | 後藤洋平",
+            "overlay_description": ""
+          }
+        },
+        "column_b6xLqj": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/3308.jpg",
             "title": "",
             "text": "",
@@ -407,6 +419,7 @@
       },
       "block_order": [
         "column_KtzCMY",
+        "column_b6xLqj",
         "column_GdUdMY",
         "column_amdaJM",
         "column_eQtaFY",
